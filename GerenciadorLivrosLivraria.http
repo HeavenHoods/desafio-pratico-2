@@ -1,0 +1,6 @@
+@GerenciadorLivrosLivraria_HostAddress = http://localhost:5220
+
+GET {{GerenciadorLivrosLivraria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

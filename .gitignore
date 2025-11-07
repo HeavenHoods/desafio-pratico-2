@@ -1,0 +1,20 @@
+## Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.rsuser
+
+## Logs and temporary
+*.log
+*.tmp
+*.temp
+
+## OS junk
+Thumbs.db
+.DS_Store
