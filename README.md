@@ -132,5 +132,5 @@ curl -X DELETE http://localhost:5220/api/books/{id}
 
 ## Observações e próximos passos
 
-- Persistência: atualmente o repositório é em memória. Para dados persistentes, substitua por EF Core e banco de dados (posso auxiliar na migração).
+- Persistência: atualmente o repositório é em memória. Para dados persistentes, substitua por EF Core e banco de dados.
 - Melhorias: paginação e ordenação na listagem, exportação CSV/JSON, testes automatizados.
